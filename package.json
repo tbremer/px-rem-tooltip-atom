@@ -1,7 +1,7 @@
 {
   "name": "px-rem-tooltip",
   "main": "./lib/pxrem",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Show a tooltip with the current CSS Unit converted to either Pixels or REMs.",
   "keywords": [],
   "repository": "https://github.com/tbremer/px-rem-tooltop-atom.git",
