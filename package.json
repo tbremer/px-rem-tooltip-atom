@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/pxrem",
+  "repository": "https://github.com/tbremer/px-rem-tooltop-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
