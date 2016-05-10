@@ -1,15 +1,13 @@
 {
   "name": "px-rem-tooltip",
   "main": "./lib/pxrem",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/tbremer/px-rem-tooltop-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
