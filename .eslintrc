@@ -1,0 +1,9 @@
+{
+  "globals": {
+    "atom": true
+  },
+  "extends": "tbremer",
+  "rules": {
+    "brace-style": [ 2, "stroustrup" ]
+  }
+}

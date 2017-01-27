@@ -6,8 +6,19 @@
   "keywords": [],
   "repository": "https://github.com/tbremer/px-rem-tooltop-atom.git",
   "license": "MIT",
+  "scripts": {
+    "test": "eslint ./lib/"
+  },
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "pre-commit": [
+    "test"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-tbremer": "^1.2.1",
+    "pre-commit": "^1.2.2"
+  }
 }
